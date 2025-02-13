@@ -104,7 +104,7 @@ $isLoggedIn = isset($_SESSION['id']);
         <h2 class="logo">Bakul Rezeki</h2>
     </div>
     <nav style="text-align: left;">
-        <a href="index.php" style="color: white; text-decoration: none; font-size: 18px; font-weight: bold; margin-left: 900px;">
+        <a href="index.html" style="color: white; text-decoration: none; font-size: 18px; font-weight: bold; margin-left: 900px;">
             Home
         </a>
     </nav>
