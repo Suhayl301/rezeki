@@ -165,7 +165,7 @@ $conn->close();
         <h2 class="logo">Bakul Rezeki</h2>
     </div>
     <nav style="text-align: left;">
-        <a href="index.php" style="color: white; text-decoration: none; font-size: 18px; font-weight: bold; margin-left: 900px;">
+        <a href="index.html" style="color: white; text-decoration: none; font-size: 18px; font-weight: bold; margin-left: 900px;">
             Home
         </a>
     </nav>
@@ -181,7 +181,7 @@ $conn->close();
 
 <div class="main-content">
     <div class="container">
-        <a href="index.php"><img src="image/uitmpundana.jpg" alt="Illustration Image"></a>
+        <a href="index.html"><img src="image/uitmpundana.jpg" alt="Illustration Image"></a>
         <main class="login-container">
             <div class="login-box">
                 <h1>Login</h1>
